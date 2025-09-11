@@ -43,10 +43,7 @@ Here is a preview of the interactive Sales Performance Dashboard:
 
 ![image alt](https://github.com/ratandeepsingh246-prog/Sales-Radar/blob/main/Screenshot%20(156).png)
 
-
-
-
-Replace these images with your actual exported screenshots from Power BI.
+![image alt](https://github.com/ratandeepsingh246-prog/Sales-Radar/blob/main/Screenshot%20(157).png)
 
 🎯 Outcome
 
