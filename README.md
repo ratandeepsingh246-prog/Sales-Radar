@@ -1,28 +1,31 @@
 # Sales-Radar
+   Business Sales Performance Data Module
 This project showcases a Power BI dashboard designed to analyze business sales performance and customer behavior using real-world style sales, customers, and product data. The dashboard highlights both high-level KPIs and deep-dive insights, enabling better decision-making for sales growth, customer retention, and product optimization.
 Business Sales Performance Data Module
 
-📌 Overview
+   Overview
 
-An end-to-end data analytics project showcasing how raw CSV data is transformed into insights using Python, MySQL, and Power BI.
+An end-to-end data analytics project showcasing how raw CSV and SQL data is transformed into actionable insights using Python, MySQL, and Power BI.
 
 🔹 Workflow
 
-Data Source → Collected raw CSV files (Customers, Products, Sales, Returns).
+Data Source → Collected raw CSV files (Customers, Products, Sales, Returns) and SQL files (Product_Categories, Product_Subcategories, Territories).
 
-ETL with Python → Cleaned, handled missing values, and prepared data for database.
+ETL with Python → Cleaned CSVs, handled missing values, and imported data into MySQL.
 
-Database → Stored in MySQL (Business_Sales_Performance_Data_Module) with proper structure and relationships.
+Database Design → Created structured tables and relationships in MySQL (Customers, Products, Sales, Returns, Product_Categories, Product_Subcategories, Territories).
 
 Visualization → Connected MySQL to Power BI and built an interactive Sales Performance Dashboard.
 
 🔹 Features
 
-Automated CSV → MySQL import with Python.
+Automated CSV → MySQL import using Python.
 
-Structured tables for Customers, Products, Sales, Returns.
+SQL scripts for categories, subcategories, and territories.
 
-Power BI Dashboard with KPIs, sales trends, and filters.
+Centralized relational database with clean relationships.
+
+Power BI Dashboard with KPIs, sales trends, and interactive filters.
 
 Case study approach simulating real business reporting.
 
@@ -30,10 +33,27 @@ Case study approach simulating real business reporting.
 
 Python (Pandas, MySQL-Connector, SQLAlchemy)
 
-MySQL (data storage & queries)
+MySQL (database schema, table creation, queries)
 
 Power BI (dashboard & insights)
 
+📸 Dashboard Preview
+
+Here is a preview of the interactive Sales Performance Dashboard:
+
+
+
+
+Replace these images with your actual exported screenshots from Power BI.
+
 🎯 Outcome
 
-A complete workflow demonstrating how a Data Analyst can turn raw datasets into meaningful business insights through database integration and visualization.
+A complete workflow demonstrating how a Data Analyst can transform raw datasets into meaningful business insights through:
+
+Database integration
+
+ETL automation
+
+Interactive dashboard visualization
+
+This project highlights both technical skills (Python, MySQL, Power BI) and analytical thinking, simulating real-world business reporting scenarios.
