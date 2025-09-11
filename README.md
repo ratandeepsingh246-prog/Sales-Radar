@@ -41,6 +41,8 @@ Power BI (dashboard & insights)
 
 Here is a preview of the interactive Sales Performance Dashboard:
 
+![image alt](https://github.com/ratandeepsingh246-prog/Sales-Radar/blob/main/Screenshot%20(156).png)
+
 
 
 
